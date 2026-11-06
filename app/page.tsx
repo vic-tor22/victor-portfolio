@@ -285,7 +285,7 @@ export default function Home() {
 
       <footer className="footer">
         <p>
-          © {new Date().getFullYear()} Victor Murkomen. All rights reserved.
+          © {2026} Victor Murkomen. All rights reserved.
         </p>
       </footer>
     </main>
